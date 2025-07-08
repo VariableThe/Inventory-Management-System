@@ -19,7 +19,7 @@ This tool helps track product stock, manage quantity updates, and log stock move
 
 ## 🖼️ GUI Preview
 
-![GUI Screenshot](Image/Screenshot 2025-07-08 153052)
+![GUI Screenshot](Image/Screenshot 2025-07-08 153052.png)
 
 ---
 
