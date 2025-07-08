@@ -19,9 +19,7 @@ This tool helps track product stock, manage quantity updates, and log stock move
 
 ## 🖼️ GUI Preview
 
-> *(Optional: insert a screenshot here)*  
-> You can add a screenshot using:  
-> `![GUI Screenshot](path/to/image.png)`
+![GUI Screenshot](Image/Screenshot 2025-07-08 153052)
 
 ---
 
